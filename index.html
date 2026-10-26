@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carpet Rider</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <canvas id="game"></canvas>
+
+    <div id="hud">
+      <div id="score">0</div>
+      <div id="best">BEST 0</div>
+    </div>
+
+    <button id="mute" aria-pressed="false">Sound on</button>
+
+    <div id="flash"></div>
+
+    <div id="overlay">
+      <h1>Carpet Rider</h1>
+      <p id="message">Dodge the towers. Grab the gems.</p>
+      <p class="hint">Arrow keys / WASD to fly &middot; drag on touch &middot; M to mute</p>
+      <button id="start" disabled>Loading&hellip;</button>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
