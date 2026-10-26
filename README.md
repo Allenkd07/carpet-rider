@@ -7,7 +7,7 @@ the Chrome offline dinosaur game, but in 3D with a chase camera.
 The game's 3D models were generated with [Vi3W](https://app.vi3w.in), a
 sketch-to-3D tool.
 
-**Play it: <https://carpet-rider.vercel.app/>** (keyboard or touch, no
+**Play it: <https://carpet.karthikdileep.in/>** (keyboard or touch, no
 install needed)
 
 ## How to play
